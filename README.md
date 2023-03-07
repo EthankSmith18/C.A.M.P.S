@@ -1,0 +1,1 @@
+ A web based application allowing users to register for summer camp, view scheduled activities and activity details, and create new activities. Built with JavaScript, React, Java, Spring, Bootstrap, Material UI, CSS, JSON, Trello, Figma, and HTML.
